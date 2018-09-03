@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "title": "Nike ACG",
+      "description": "(Unofficial Music & Sound Design, 2017)",
+      "image": "/cms/images/nike-2.jpg",
+      "vimeoID": "216511321",
+      "contents": "{\"title\":\"Nike ACG\",\"description\":\"(Unofficial Music & Sound Design, 2017)\",\"image\":\"/cms/images/nike-2.jpg\",\"vimeoID\":\"216511321\",\"contents\":\"\"}",
+      "id": "_slider__nike-acg.json"
+    },
+    {
+      "title": "Nike Flyknit",
+      "description": "(Unofficial Music & Sound Design, 2017)",
+      "image": "/cms/images/nike-1.jpg",
+      "vimeoID": "222166226",
+      "contents": "{\"title\":\"Nike Flyknit\",\"description\":\"(Unofficial Music & Sound Design, 2017)\",\"image\":\"/cms/images/nike-1.jpg\",\"vimeoID\":\"222166226\",\"contents\":\"\"}",
+      "id": "_slider__nike-flyknit.json"
+    }
+  ]
+}
